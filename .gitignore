@@ -1,0 +1,5 @@
+.gradle/
+.idea/libraries/
+.idea/workspace
+*.iml
+.idea/artifacts
