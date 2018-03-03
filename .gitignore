@@ -3,3 +3,5 @@
 .idea/workspace
 *.iml
 .idea/artifacts
+.build/
+.out/
