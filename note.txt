@@ -1,0 +1,17 @@
+1. 商品列表页（跳转详情页）action: product_details
+2. 商品详情页 （下单）action: product_buy
+3. 购物车页面（添加，删除，跳转商品详情页）cart_add,cart_sub,cart_delete,product_details
+4. 添加商品页 （添加商品）product_add
+
+Controller:
+
+Controller: product, cart
+Service: product, cart
+
+View: 
+productList.jsp
+productDetails.jsp
+cart.jsp
+productAdd.jsp
+
+Model: session
