@@ -1,0 +1,29 @@
+[
+  {
+    "product": {
+      "id": 10000000,
+      "name": "Bravo 32' HDTV",
+      "description": "Low-cost HDTV from renowned TV manufacturer",
+      "price": 159.95
+    },
+    "quantity": 10
+  },
+  {
+    "product": {
+      "id": 10000001,
+      "name": "Bravo Stereo System",
+      "description": "5 speaker HIFI system with iPod player",
+      "price": 99.95
+    },
+    "quantity": 7
+  },
+  {
+    "product": {
+      "id": 10000003,
+      "name": "Bravo iPod player",
+      "description": "An iPod plug-in that can play multiple formats",
+      "price": 39.95
+    },
+    "quantity": 14
+  }
+]

@@ -5,7 +5,7 @@ import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "HellowWorldServlet", urlPatterns = {"/"})
+@WebServlet(name = "HellowWorldServlet", urlPatterns = {"/hellowWorld"})
 public class HellowWorldServlet implements Servlet {
     private transient ServletConfig servletConfig;
 

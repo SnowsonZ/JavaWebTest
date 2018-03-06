@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example.iml" filepath="$PROJECT_DIR$/.idea/modules/example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example.iml" filepath="$PROJECT_DIR$/.idea/modules/example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example_main.iml" group="example" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example_main.iml" group="example" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example_test.iml" group="example" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example_test.iml" group="example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc.iml" group="springmvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc/springmvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc/springmvc_main.iml" group="springmvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc/springmvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc/springmvc_test.iml" group="springmvc" />
     </modules>
   </component>
 </project>
